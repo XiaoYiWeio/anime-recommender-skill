@@ -1,0 +1,4 @@
+interface:
+  display_name: "Anime Recommender"
+  short_description: "Recommend anime from watch history and live data"
+  default_prompt: "Use $anime-recommender to chat with me about my anime taste and recommend what to watch next."
